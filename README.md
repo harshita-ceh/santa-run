@@ -2,6 +2,8 @@
 
 An Endless Runner based games with Ai Algorithms For spawning Algorithms.Try to attain maximum score.
 
+* Implemented Object Pooling For spawning of obstacles.
+
 Controls-
 
 D - right
